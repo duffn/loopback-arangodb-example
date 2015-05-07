@@ -1,0 +1,58 @@
+[
+  {
+    "isActive": true,
+    "company": "SOLAREN",
+    "email": "chambershogan@solaren.com",
+    "address": "471 Dodworth Street, Wyoming, Guam, 7909",
+    "latitude": -16.565142,
+    "longitude": 78.297787
+  },
+  {
+    "isActive": false,
+    "company": "ZOLAREX",
+    "email": "chambershogan@zolarex.com",
+    "address": "331 Hudson Avenue, Tetherow, Louisiana, 8991",
+    "latitude": -36.705101,
+    "longitude": 35.029186
+  },
+  {
+    "isActive": false,
+    "company": "HYPLEX",
+    "email": "chambershogan@hyplex.com",
+    "address": "273 Boerum Place, Loma, Ohio, 7043",
+    "latitude": -39.166017,
+    "longitude": -165.875179
+  },
+  {
+    "isActive": false,
+    "company": "OCTOCORE",
+    "email": "chambershogan@octocore.com",
+    "address": "376 Fayette Street, Williamson, Marshall Islands, 5746",
+    "latitude": 88.83977,
+    "longitude": 101.820201
+  },
+  {
+    "isActive": true,
+    "company": "DEEPENDS",
+    "email": "chambershogan@deepends.com",
+    "address": "643 Minna Street, Lydia, Minnesota, 4426",
+    "latitude": -20.366389,
+    "longitude": 129.676139
+  },
+  {
+    "isActive": false,
+    "company": "NETPLAX",
+    "email": "chambershogan@netplax.com",
+    "address": "766 Jerome Street, Aguila, New Jersey, 2462",
+    "latitude": 43.618551,
+    "longitude": -114.363362
+  },
+  {
+    "isActive": false,
+    "company": "FIREWAX",
+    "email": "chambershogan@firewax.com",
+    "address": "147 Channel Avenue, Brambleton, Washington, 4104",
+    "latitude": 2.412942,
+    "longitude": 58.712408
+  }
+]

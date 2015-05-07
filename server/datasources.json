@@ -1,0 +1,13 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "arangodb": {
+    "port": 8529,
+    "database": "loopback-example",
+    "name": "arangodb",
+    "connector": "arango",
+    "hostname": "127.0.0.1"
+  }
+}

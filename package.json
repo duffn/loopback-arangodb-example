@@ -1,5 +1,5 @@
 {
-  "name": "loopback-arangodb-example2",
+  "name": "loopback-arangodb-example",
   "version": "1.0.0",
   "main": "server/server.js",
   "scripts": {
@@ -25,5 +25,5 @@
     "type": "",
     "url": ""
   },
-  "description": "loopback-arangodb-example2"
+  "description": "loopback-arangodb-example"
 }

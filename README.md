@@ -2,7 +2,7 @@
 This is an example application showing how to connect [LoopBack](http://loopback.io)
 to ArangoDB using the community contributed [loopback-connector-arango](https://github.com/duffn/loopback-connector-arango).
 
-This is the example code for the [Getting Started with Node.js LoopBack Connector for ArangoDB](https://strongloop.com/strongblog/) post on the StrongLoop blog.
+This is the example code for the [Getting Started with Node.js LoopBack Connector for ArangoDB](https://strongloop.com/strongblog/getting-started-with-node-js-loopback-connector-for-arangodb/) post on the StrongLoop blog.
 
 # License
 Copyright (c) 2015 Nicholas Duffy
